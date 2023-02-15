@@ -6,7 +6,7 @@
 
 <p align="left">
 <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=text&text=IM%20MITCHELL&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A">
+<img  src="https://readme-components.vercel.app/api?component=text&textfill=000000&text=IM%20MITCHELL&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A">
 </a>
 </p>
 
