@@ -13,6 +13,7 @@
 
 
 - 🏠 Seattle, Washington
+- 🤓 Pronouns: He/Him/👾
 - 🔭 Intermediate JavaScript- Team week
 - 📫 mgantz22@icloud.com
 - <a href="https://www.linkedin.com/in/mitchell-gantz"><img align="center" src="https://img.shields.io/badge/linkedIn-0077b5?style=for-the-badge&logo=linkedIn&logoColor=ffffff"></a>
