@@ -14,10 +14,10 @@
 
 - 🏠 Seattle, Washington
 - 🤓 Pronouns: He/Him/👾
-- 🔭 Introduction to C# and .Net
+- 🔭 React & Unity fundamentals
 - 📫 mgantz22@icloud.com
 - <a href="https://www.linkedin.com/in/mitchell-gantz"><img align="center" src="https://img.shields.io/badge/linkedIn-0077b5?style=for-the-badge&logo=linkedIn&logoColor=ffffff"></a>
-- ⚡ The Event Handlers Game ⚡ (team week): https://mgantz22.github.io/the-event-handlers/
+- ⚡ The Event Handlers Game ⚡ (team week#1): https://mgantz22.github.io/the-event-handlers/
 
 # I’m currently learning:
 
