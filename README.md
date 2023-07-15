@@ -1,31 +1,27 @@
 
-
-# Hello friend 👋
-
-
-
 <p align="left">
 <a href="https://github.com/harish-sethuraman/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=text&textfill=000000&text=IM%20MITCHELL&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A">
 </a>
 </p>
+<p>A skilled software developer with experience in C# and JavaScript, and expertise in frameworks like React, Node.js, and Three.js. I'm a quick learner and collaborate closely with clients to create efficient, scalable, and user-friendly solutions that solve real-world problems. Let's work together to bring your ideas to life!</p>
 
 
 
 - 🏠 Seattle, Washington
-- 🤓 Pronouns: He/Him/👾
-- 🔭 React & Unity fundamentals
+- 🤓 Pronouns: He/Him/👾 
 - 📫 mgantz22@icloud.com
+- ⚡https://mitchellgantz.com
 - <a href="https://www.linkedin.com/in/mitchell-gantz"><img align="center" src="https://img.shields.io/badge/linkedIn-0077b5?style=for-the-badge&logo=linkedIn&logoColor=ffffff"></a>
-- ⚡ Personal Portfolio ⚡  https://mitchellgantz.com
 
-# I’m currently learning:
+
+
 
 <p align="left">
 
   [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=CSharp&textfill=000000&animation=spin&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)](https://github.com/harish-sethuraman/readme-components)
-  [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=React&textfill=000000&animation=spin&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)](https://github.com/harish-sethuraman/readme-components)
    [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=JavaScript&textfill=000000&animation=spin&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)](https://github.com/harish-sethuraman/readme-components)
+   [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=React&textfill=000000&animation=spin&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)](https://github.com/harish-sethuraman/readme-components)
 </p>
 
 <p align="center">
