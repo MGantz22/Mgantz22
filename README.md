@@ -4,11 +4,11 @@
 <img  src="https://readme-components.vercel.app/api?component=text&textfill=000000&text=IM%20MITCHELL&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A">
 </a>
 </p>
-<p>A skilled software developer with experience in C# and JavaScript, and expertise in frameworks like React, Node.js, and Three.js. I'm a quick learner and collaborate closely with clients to create efficient, scalable, and user-friendly solutions that solve real-world problems. Let's work together to bring your ideas to life!</p>
+<p>A skilled Software and Game Developer with experience in Unity, C# and JavaScript, and expertise in frameworks like React, Node.js, and Three.js. I'm a quick learner and collaborate closely with clients to create efficient, scalable, and user-friendly solutions that solve real-world problems. Let's work together to bring your ideas to life!</p>
 
 
 
-- 🏠 Seattle, Washington
+- 🏠 Green Bay, Wisconsin | Seattle, Washington
 - 🤓 Pronouns: He/Him/👾 
 - 📫 mgantz22@icloud.com
 - ⚡https://mitchellgantz.com
